@@ -10,8 +10,9 @@
 
 - `git clone git@github.com:iam-Akshat/weather-app.git`
 - `cd weather-app`
-- optional for linters `npm i`
-- Open index.html 
+- `npm i`
+- `npm watch` creates dist dir and watches for changes in src dir.
+- Open dist/index.html 
 
 ## Authors
 
