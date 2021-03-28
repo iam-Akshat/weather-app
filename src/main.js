@@ -1,3 +1,5 @@
+import './styles.css';
+
 const apiURL = 'http://api.openweathermap.org/data/2.5/weather?appid=50724fd12d9b476a0fb49df189e71909&units=metric&q=';
 const submitBtn = document.querySelector('.form-container form button');
 const form = document.querySelector('form');
